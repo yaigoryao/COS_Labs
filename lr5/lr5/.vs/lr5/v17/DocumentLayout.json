@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb22.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_cheb22.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_ellip2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_ellip1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb21.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_cheb21.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb12.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_cheb12.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb11.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_cheb11.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_butterword2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1258F3B-25C3-425B-852E-FD20F1B9F17D}|lr5\\lr5.pyproj|solutionrelative:lr5\\lr5_butterword1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lr5_ellip2.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip2.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_ellip2.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip2.py",
+              "RelativeToolTip": "lr5\\lr5_ellip2.py",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwv0AAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:37:37.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lr5_cheb22.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb22.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_cheb22.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb22.py",
+              "RelativeToolTip": "lr5\\lr5_cheb22.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lr5_ellip1.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip1.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_ellip1.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_ellip1.py",
+              "RelativeToolTip": "lr5\\lr5_ellip1.py",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvz4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:33.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lr5_cheb21.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb21.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_cheb21.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb21.py",
+              "RelativeToolTip": "lr5\\lr5_cheb21.py",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvz4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:27.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lr5_cheb12.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb12.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_cheb12.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb12.py",
+              "RelativeToolTip": "lr5\\lr5_cheb12.py",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0AAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lr5_cheb11.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb11.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_cheb11.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_cheb11.py",
+              "RelativeToolTip": "lr5\\lr5_cheb11.py",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvz4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:15.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lr5_butterword2.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword2.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_butterword2.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword2.py",
+              "RelativeToolTip": "lr5\\lr5_butterword2.py",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0AAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:40:09.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lr5_butterword1.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword1.py",
+              "RelativeDocumentMoniker": "lr5\\lr5_butterword1.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr5\\lr5\\lr5\\lr5_butterword1.py",
+              "RelativeToolTip": "lr5\\lr5_butterword1.py",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvz8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-26T15:18:50.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

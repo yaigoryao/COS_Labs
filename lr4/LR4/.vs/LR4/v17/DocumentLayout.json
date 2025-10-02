@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\study\\IUK4_72B\\cos\\lr4\\LR4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221807DC-7BF1-4FCB-B1E5-1ED4EC32D759}|LR4\\LR4.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr4\\LR4\\LR4\\lr4_ellip1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{221807DC-7BF1-4FCB-B1E5-1ED4EC32D759}|LR4\\LR4.pyproj|solutionrelative:LR4\\lr4_ellip1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lr4_ellip1.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr4\\LR4\\LR4\\lr4_ellip1.py",
+              "RelativeDocumentMoniker": "LR4\\lr4_ellip1.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr4\\LR4\\LR4\\lr4_ellip1.py",
+              "RelativeToolTip": "LR4\\lr4_ellip1.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-27T06:08:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

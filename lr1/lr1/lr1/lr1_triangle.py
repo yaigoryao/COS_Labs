@@ -1,0 +1,39 @@
+﻿import numpy as np
+from matplotlib import pyplot as plt
+signal_name = "треугольного сигнала"
+graph_rows = 3
+graph_cols = 6
+
+A = 3
+T = 6
+tau = 5
+half_tau = tau/2
+k = 18
+
+num_periods = 3
+t = np.arange(-num_periods * T/2, num_periods * T/2, 0.01)
+
+harmonics = 8*A/(np.pi**2) * np.array([(1.0 / (n**2)) * np.cos(n * 2 * np.pi *t / T) for n in range(1, 2*k + 1) if n % 2 != 0])
+superpositions = np.cumsum(harmonics, axis = 0)
+
+plt.figure()
+for i, h in enumerate(harmonics):
+    plt.subplot(graph_rows, graph_cols, i + 1)
+    plt.plot(t, harmonics[i])
+    plt.ylim(-A, A)
+    plt.grid(True)
+    plt.title(f"Гармоника {i + 1}")
+
+plt.suptitle(f"Гармоники {signal_name}")
+plt.show()
+
+plt.figure()
+for i, h in enumerate(superpositions):
+    plt.subplot(graph_rows, graph_cols, i + 1)
+    plt.plot(t, superpositions[i])
+    plt.ylim(-A - 1, A + 1)
+    plt.grid(True)
+    plt.title(f"Суперпозиция {i + 1} гармоник")
+
+plt.suptitle(f"Суперпозиции гармоник {signal_name}")
+plt.show()

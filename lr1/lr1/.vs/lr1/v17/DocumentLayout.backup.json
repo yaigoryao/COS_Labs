@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_meander.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|solutionrelative:lr1\\lr1_meander.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_triangle.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|solutionrelative:lr1\\lr1_triangle.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_sawlike.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|solutionrelative:lr1\\lr1_sawlike.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_square.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92DFEACA-64B9-4055-988B-465213EA0A5E}|lr1\\lr1.pyproj|solutionrelative:lr1\\lr1_square.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lr1_triangle.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_triangle.py",
+              "RelativeDocumentMoniker": "lr1\\lr1_triangle.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_triangle.py",
+              "RelativeToolTip": "lr1\\lr1_triangle.py",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-06T14:08:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lr1_sawlike.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_sawlike.py",
+              "RelativeDocumentMoniker": "lr1\\lr1_sawlike.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_sawlike.py",
+              "RelativeToolTip": "lr1\\lr1_sawlike.py",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-06T14:04:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lr1_square.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_square.py",
+              "RelativeDocumentMoniker": "lr1\\lr1_square.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_square.py",
+              "RelativeToolTip": "lr1\\lr1_square.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-06T13:36:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lr1_meander.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_meander.py",
+              "RelativeDocumentMoniker": "lr1\\lr1_meander.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr1\\lr1\\lr1\\lr1_meander.py",
+              "RelativeToolTip": "lr1\\lr1_meander.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-06T11:39:02.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

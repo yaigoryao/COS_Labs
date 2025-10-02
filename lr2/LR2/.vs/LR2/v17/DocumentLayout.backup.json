@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_interleaved.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|solutionrelative:LR2\\LR2_interleaved.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even_odd.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|solutionrelative:LR2\\LR2_even_odd.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_step.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|solutionrelative:LR2\\LR2_step.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_impulse.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|solutionrelative:LR2\\LR2_impulse.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74F6518D-2FE3-4E21-9C19-19EF712E8EEF}|LR2\\LR2.pyproj|solutionrelative:LR2\\LR2_even.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR2_interleaved.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_interleaved.py",
+              "RelativeDocumentMoniker": "LR2\\LR2_interleaved.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_interleaved.py",
+              "RelativeToolTip": "LR2\\LR2_interleaved.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T10:23:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR2_even_odd.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even_odd.py",
+              "RelativeDocumentMoniker": "LR2\\LR2_even_odd.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even_odd.py",
+              "RelativeToolTip": "LR2\\LR2_even_odd.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T10:19:26.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LR2_even.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even.py",
+              "RelativeDocumentMoniker": "LR2\\LR2_even.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_even.py",
+              "RelativeToolTip": "LR2\\LR2_even.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T10:11:14.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LR2_step.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_step.py",
+              "RelativeDocumentMoniker": "LR2\\LR2_step.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_step.py",
+              "RelativeToolTip": "LR2\\LR2_step.py",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T09:47:24.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LR2_impulse.py",
+              "DocumentMoniker": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_impulse.py",
+              "RelativeDocumentMoniker": "LR2\\LR2_impulse.py",
+              "ToolTip": "D:\\projects\\study\\IUK4_72B\\cos\\lr2\\LR2\\LR2\\LR2_impulse.py",
+              "RelativeToolTip": "LR2\\LR2_impulse.py",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T09:14:42.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
